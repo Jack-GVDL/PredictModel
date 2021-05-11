@@ -26,7 +26,7 @@ if __name__ != "__main__":
 
 # model - 6
 from Train.Model_6 import *
-# Model_main()
+Model_main()
 # Production_main()
 # Result_main()
-Statistic_main()
+# Statistic_main()
