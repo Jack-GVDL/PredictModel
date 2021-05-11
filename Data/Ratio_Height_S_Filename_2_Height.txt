@@ -1,0 +1,53 @@
+Train
+Level: 0: size sample: 9
+Level: 1: size sample: 26
+Level: 2: size sample: 42
+Level: 3: size sample: 89
+Level: 4: size sample: 59
+Level: 5: size sample: 122
+Level: 6: size sample: 89
+Level: 7: size sample: 145
+Level: 8: size sample: 55
+Level: 9: size sample: 82
+Level: 10: size sample: 83
+Level: 11: size sample: 143
+Level: 12: size sample: 188
+Level: 13: size sample: 235
+Level: 14: size sample: 27
+Level: 15: size sample: 85
+
+Val
+Level: 0: size sample: 4
+Level: 1: size sample: 1
+Level: 2: size sample: 3
+Level: 3: size sample: 15
+Level: 4: size sample: 5
+Level: 5: size sample: 18
+Level: 6: size sample: 6
+Level: 7: size sample: 14
+Level: 8: size sample: 4
+Level: 9: size sample: 13
+Level: 10: size sample: 10
+Level: 11: size sample: 8
+Level: 12: size sample: 29
+Level: 13: size sample: 72
+Level: 14: size sample: 4
+Level: 15: size sample: 41
+
+Test
+Level: 0: size sample: 1
+Level: 1: size sample: 4
+Level: 2: size sample: 2
+Level: 3: size sample: 10
+Level: 4: size sample: 9
+Level: 5: size sample: 19
+Level: 6: size sample: 10
+Level: 7: size sample: 18
+Level: 8: size sample: 4
+Level: 9: size sample: 12
+Level: 10: size sample: 9
+Level: 11: size sample: 12
+Level: 12: size sample: 32
+Level: 13: size sample: 73
+Level: 14: size sample: 0
+Level: 15: size sample: 32
