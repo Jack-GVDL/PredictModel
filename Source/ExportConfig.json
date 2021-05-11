@@ -1,0 +1,7 @@
+{
+	"Path_Src": "../../ProjectUtility",
+	"Path_Dst": "./External",
+	"Module": [
+		"TrainUtility"
+	]
+}

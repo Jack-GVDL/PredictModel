@@ -1,0 +1,10 @@
+{
+	"Path_Src": "../../ProjectUtility",
+	"Path_Dst": "./External",
+	"Module": [
+		"DataChain",
+		"DataProject",
+		"Util_Cmd",
+    "DataLog"
+	]
+}

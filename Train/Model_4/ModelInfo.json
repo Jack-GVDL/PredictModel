@@ -1,0 +1,18 @@
+{
+  "ModelInfo": {},
+  "RandomSeed": 123,
+  "Epoch": 2,
+  "BatchSize": 1,
+  "TrainInfo": {},
+  "DatasetInfo": {
+    "Path_Data_Train":  "./Data/Data_Train_S_Filename_2_Height.csv",
+    "Path_Data_Val":    "./Data/Data_Valid_S_Filename_2_Height.csv",
+    "Path_Data_Test":   "./Data/Data_Test_S_Filename_2_Height.csv",
+    "Path_Ratio_Train": "./Data/Ratio_Train_S_Filename_2_Height.json",
+    "Path_Ratio_Val":   "./Data/Ratio_Valid_S_Filename_2_Height.json",
+    "Path_Ratio_Test":  "./Data/Ratio_Test_S_Filename_2_Height.json",
+    "Path_Image":       "../../Data/D_Image_S_Filename_E_Resolution_2_Combined/Data"
+  },
+  "Result": {},
+  "Log": []
+}
